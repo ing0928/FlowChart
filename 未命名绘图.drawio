@@ -1,9 +1,65 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3" pages="2">
   <diagram name="第 1 页" id="PIUSKnSMDxBKbNm1fm-y">
-    <mxGraphModel>
+    <mxGraphModel dx="2066" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-1" value="信息中心开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="125" width="300" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-3" value="&#xa;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;开发集成服务&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="419" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="qndWGoF2NSR0Cbmz8F-d-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="370" as="sourcePoint" />
+            <mxPoint x="548" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-9" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;服务集成开发平台&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="122" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aUNW59iuU0rSmC6xZ5ka" name="第 2 页">
+    <mxGraphModel dx="1722" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aL6i1FMYFoRY5GzX7XBT-1" value="业务部门流程管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aL6i1FMYFoRY5GzX7XBT-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="125" width="300" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="aL6i1FMYFoRY5GzX7XBT-3" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;添加集成服务组件&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="419" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aL6i1FMYFoRY5GzX7XBT-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.013;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aL6i1FMYFoRY5GzX7XBT-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="370" as="sourcePoint" />
+            <mxPoint x="414.00109036779384" y="289.99914609229484" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aL6i1FMYFoRY5GzX7XBT-5" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;轻流程设计器&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aL6i1FMYFoRY5GzX7XBT-6" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;配置集成服务&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="423" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aL6i1FMYFoRY5GzX7XBT-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aL6i1FMYFoRY5GzX7XBT-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265.28" y="380" as="sourcePoint" />
+            <mxPoint x="419.00313198262165" y="416.12894098163224" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
