@@ -1,26 +1,44 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1" pages="2">
   <diagram name="第 1 页" id="PIUSKnSMDxBKbNm1fm-y">
-    <mxGraphModel dx="2066" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qndWGoF2NSR0Cbmz8F-d-1" value="信息中心开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-1" value="实施人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="340" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qndWGoF2NSR0Cbmz8F-d-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="140" width="300" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="qndWGoF2NSR0Cbmz8F-d-3" value="&#xa;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;开发集成服务&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="419" y="330" width="120" height="80" as="geometry" />
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-3" value="配置页面主题" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="419" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qndWGoF2NSR0Cbmz8F-d-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="qndWGoF2NSR0Cbmz8F-d-3">
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="qndWGoF2NSR0Cbmz8F-d-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="370" as="sourcePoint" />
             <mxPoint x="548" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qndWGoF2NSR0Cbmz8F-d-9" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;服务集成开发平台&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="qndWGoF2NSR0Cbmz8F-d-9" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;移动审批设计器&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="414" y="140" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IkmRaMdj6X9T8r9_kg8S-3" value="配置页面主题" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IkmRaMdj6X9T8r9_kg8S-4" value="配置页面主题" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IkmRaMdj6X9T8r9_kg8S-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IkmRaMdj6X9T8r9_kg8S-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="380" as="sourcePoint" />
+            <mxPoint x="441" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IkmRaMdj6X9T8r9_kg8S-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IkmRaMdj6X9T8r9_kg8S-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="390" as="sourcePoint" />
+            <mxPoint x="411" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
